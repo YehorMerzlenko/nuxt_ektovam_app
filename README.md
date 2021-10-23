@@ -1,4 +1,4 @@
-# nuxt_ektovam_app
+# nuxt_genesis_app
 
 ## Build Setup
 
